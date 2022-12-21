@@ -1,0 +1,1 @@
+print("yeni file")
